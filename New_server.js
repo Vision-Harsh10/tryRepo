@@ -6,6 +6,8 @@ const Database = require('./Database.js');
  // Fixed variable name
 require('dotenv').config(); 
 
+// life is boring ......
+
  
 app.use(express.json()); // Ensure JSON parsing middleware is available
 
